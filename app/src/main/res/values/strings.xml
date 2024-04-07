@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tropical Slide</string>
+    <string name="endgame_title">GAME OVER!</string>
+    <string name="toast_message">To play, touch one of the buttons next to the grid.</string>
+    <string name="x_name">Pineapple</string>
+    <string name="o_name">Banana</string>
+    <string name="win"> wins!</string>
+    <string name="tie_message">Its a Tie!</string>
+    <string name="play_again">Play again</string>
+    <string name="quit">Quit</string>
+    <string name="music_title">Background Music</string>
+    <string name="music_on">Music will play</string>
+    <string name="music_off">Music will not play</string>
+    <string name="speed_title">Slide speed</string>
+    <string name="speed_summary">Choose animation speed</string>
+    <string name="speed_fast">Fast</string>
+    <string name="speed_medium">Medium</string>
+    <string name="speed_slow">Slow</string>
+    <string name="about_title">ABOUT</string>
+    <string name="about">This game was produced by Talmage J. Sharp</string>
+</resources>

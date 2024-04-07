@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tropical Tobogán</string>
+    <string name="endgame_title">Juego Terminado!</string>
+    <string name="toast_message">Para jugar, toque uno de los botones junto a la cuadrícula.</string>
+    <string name="x_name">Piña</string>
+    <string name="o_name">Plátano</string>
+    <string name="win">\ gana!</string>
+    <string name="tie_message">Es un Empate!</string>
+    <string name="play_again">Juega de Nuevo</string>
+    <string name="quit">Dejar</string>
+    <string name="music_title">Música de Fondo</string>
+    <string name="music_on">La música sonará</string>
+    <string name="music_off">la música no se reproducirá</string>
+    <string name="speed_title">Tobogán velocidad</string>
+    <string name="speed_summary">elige la velocidad de la animación</string>
+    <string name="speed_fast">Rápido</string>
+    <string name="speed_medium">Medio</string>
+    <string name="speed_slow">Lento</string>
+    <string name="about_title">DESCRIPCIÓN</string>
+    <string name="about">Este juego fue producido por Talmage J. Sharp</string>
+</resources>
